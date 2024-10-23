@@ -1,6 +1,7 @@
 Requires ImageMagick Installed
 https://imagemagick.org/script/download.php#windows
 
+Simply change Quality to Wtv you prefer
 Then simply copy/paste "Image Compressor.bat" file inside any picture folder
 Select it and press Enter
 Annnd Wait ^w^
